@@ -1,5 +1,6 @@
 # Github Actions를 사용하여 Splatoon3의 배틀 전적을 stat.ink에 업로드하기
 - Github Actions를 이용, 스플래툰 3의 배틀 전적을 자동으로 stat.ink에 업로드하도록 설정
+- [日本語の使い方リンク](./README.ja.md)
 
 ## 사용 방법
 - [한국어 가이드](https://github.com/cake-monotone/s3s)를 참고하여 config.txt 파일을 생성합니다.
