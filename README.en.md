@@ -8,4 +8,4 @@
 - Click the `Create repository` button at the bottom.
 - Tap Settings -> Secrets and Variables -> Actions.
 - Click the `New repository secret` button and enter `CONFIG_TXT` as `Name`, and `Secret` as the full contents of the config.txt file you created in the first guide.
-- Done. It will upload battle logs automatically about every 5 minutes (sometimes delayed to 10 minutes due to Github limitations). You can manually upload by clicking `Actions` -> `Splatoon3 Battlelog Uploader` -> `Run workflow` button.
+- Done. It will upload battle logs automatically about every 30 minutes (sometimes delayed due to Github limitations). You can manually upload by clicking `Actions` -> `Splatoon3 Battlelog Uploader` -> `Run workflow` button.

@@ -8,4 +8,4 @@
 - 一番下の`Create repository`ボタンを押します。
 - `Settings` -> `Secrets and variables` -> `Actions`を押します。
 - New repository secretボタンを押して`Name`は`CONFIG_TXT`で、`Secret`は最初のガイドで作ったconfig.txtファイルの内容を全部入れます。
-- 終わり。約5分ごとに(Githubの制限上、たまに10分まで遅延することもあります)自動でアップロードされます。手動アップロードは`Actions` -> `Splatoon3 Battlelog Uploader` -> `Run workflow`ボタンをクリックすることで可能です。
+- 終わり。約30分ごとに自動でアップロードされます。手動アップロードは`Actions` -> `Splatoon3 Battlelog Uploader` -> `Run workflow`ボタンをクリックすることで可能です。
