@@ -1,3 +1,8 @@
+# 동작 안함 / Not working / 不動作
+- 닌텐도측 보안 강화로 f generation api가 동작하지 않으므로 자동 업로드도 현재는 불가능합니다.
+- Since the f generation app does not work due to Nintendo's increased security, automatic uploading is not possible at this time.
+- 任天堂側のセキュリティ強化により、fgeneration apiが動作しないため、自動アップロードも現在はできません。
+
 # Github Actions를 사용하여 Splatoon3의 배틀 전적을 stat.ink에 업로드하기
 - Github Actions를 이용, 스플래툰 3의 배틀 전적을 자동으로 stat.ink에 업로드하도록 설정
 - [日本語の使い方リンク](./README.ja.md)
